@@ -1,0 +1,25 @@
+main{
+    width: 80%;
+    margin: 0 auto;
+    background-color: rgb(243, 241, 241);
+    background-size: auto;
+    border-radius: 15%;
+    size:
+}
+
+#task{
+    background-size: auto;
+    background-color:#47ADF1;
+    color: rgb(255, 255, 255);
+    border-radius: 10%;
+    border;
+}
+
+#section{
+    color: gray;
+    border-color: gray;
+    border-radius: 15%;
+    border-style: groove;
+    
+    
+}
