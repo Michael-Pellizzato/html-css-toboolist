@@ -22,9 +22,6 @@ main{
     background-color:#47ADF1;
     color: rgb(255, 255, 255);
     border-radius: 9%;
-    border-style: solid;
-    border-color: gray;
-    border-width: 1px 1px;
     padding: 0.5%;
 }
 
@@ -37,5 +34,22 @@ main{
     padding: 0.5%;
 }
 
+.check{
+    color: green;
+    border-color: green;
+    border-style: solid;
+    border-width: 1px 1px;
+    border-radius: 100%;
+    padding: 0.5%;
+}
+
+.cross{
+    color: red;
+    border-color: red;
+    border-style: solid;
+    border-width: 1px 1px;
+    border-radius: 100%;
+    padding: 0.5%;
+}
 
     
