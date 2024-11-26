@@ -1,19 +1,41 @@
+#logo,
+.toboolist{
+    vertical-align: middle;
+}
+
+header{
+    padding-top: 3%;
+    padding-bottom: 7%;
+}
+
 main{
     width: 80%;
     margin: 0 auto;
+}
+
+#list{
+    padding-bottom: 3%;
 }
 
 #task{
     background-size: auto;
     background-color:#47ADF1;
     color: rgb(255, 255, 255);
-    border-radius: 10%;
+    border-radius: 9%;
+    border-style: solid;
+    border-color: gray;
+    border-width: 1px 1px;
+    padding: 0.5%;
 }
 
 #section{
     color: gray;
+    border-style: solid;
+    border-width: 1px 1px;
     border-color: gray;
-    border-radius: 15%;
-    border-style: outset;
+    border-radius: 9%;
+    padding: 0.5%;
 }
 
+
+    
